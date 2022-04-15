@@ -24,7 +24,7 @@ do
   hadoop fs -copyFromLocal app$i.log /pigdata
 
   # run pig script into hadoop
-	pig -param file=$i hdfs://quoctuan-master:54310/pigdata/analysis.pig
+	pig -param file=$i hdfs://tuanmanh-master:9000/pigdata/analysis.pig
 
 	# copy output file from hadoop to local
 	hadoop fs -copyToLocal /pigdata/output$i/part-r-00000 part-r-00000_$i

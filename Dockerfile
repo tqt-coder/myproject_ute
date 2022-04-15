@@ -1,5 +1,5 @@
-FROM openjdk:8-jdk-alpine
-VOLUME /tmp
-ARG JAR_FILE
-COPY ${JAR_FILE} client.jar
-ENTRYPOINT ["java","-jar","/client.jar"]
+FROM adoptopenjdk/openjdk8
+ARG JAR_FILE=target/*.jar
+COPY ${JAR_FILE} application.jar
+EXPOSE 8081
+ENTRYPOINT ["java","-jar","/application.jar"]
