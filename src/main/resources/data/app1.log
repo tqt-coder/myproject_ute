@@ -1,0 +1,116 @@
+192.168.8.17	[12/Feb/2021:16:18:08 +0300]	POST /index.php HTTP/1.1 HTTP/1.1	200	408	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.8.17	[12/Feb/2021:16:18:11 +0300]	GET /page/getdata/commodity HTTP/1.1	200	2149	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:18:14 +0300]	GET /page/getdata/commodity HTTP/1.1	200	402	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:18:19 +0300]	GET /page/getdata/commodity HTTP/1.1	200	3052	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.8.17	[12/Feb/2021:16:18:20 +0300]	GET /page/getdata/commodity HTTP/1.1	200	378	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:18:21 +0300]	GET /page/getdata/commodity HTTP/1.1	200	410	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.8.17	[12/Feb/2021:16:18:26 +0300]	POST /index.php HTTP/1.1 HTTP/1.1	200	363	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.8.17	[12/Feb/2021:16:18:27 +0300]	POST /index.php HTTP/1.1 HTTP/1.1	200	3085	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:18:46 +0300]	POST /index.php HTTP/1.1 HTTP/1.1	200	382	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.8.17	[12/Feb/2021:16:19:00 +0300]	GET /page/getdata/commodity HTTP/1.1	200	4031	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:19:12 +0300]	GET /page/getdata/commodity HTTP/1.1	200	351	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:20:10 +0300]	GET /page/getdata/commodity HTTP/1.1	200	361	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:20:11 +0300]	GET /page/getdata/commodity HTTP/1.1	200	367	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:20:21 +0300]	GET /page/getdata/commodity HTTP/1.1	200	369	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:20:43 +0300]	POST /index.php HTTP/1.1 HTTP/1.1	404	526	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.8.17	[12/Feb/2021:16:20:49 +0300]	GET /page/getdata/commodity HTTP/1.1	200	4918	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.8.17	[12/Feb/2021:16:20:52 +0300]	DELETE /index.php/component/remove/ HTTP/1.1	200	3053	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:21:23 +0300]	POST /index.php HTTP/1.1 HTTP/1.1	200	4459	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:21:25 +0300]	DELETE /index.php/component/remove/ HTTP/1.1	200	380	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:21:30 +0300]	DELETE /index.php/component/remove/ HTTP/1.1	200	387	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.8.17	[12/Feb/2021:16:21:33 +0300]	POST /index.php HTTP/1.1 HTTP/1.1	200	385	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:21:42 +0300]	GET /page/getdata/commodity HTTP/1.1	500	2035	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:21:50 +0300]	GET /page/getdata/commodity HTTP/1.1	200	3089	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:21:55 +0300]	GET /page/getdata/commodity HTTP/1.1	200	3276	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.8.17	[12/Feb/2021:16:21:56 +0300]	GET /page/getdata/commodity HTTP/1.1	200	376	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:21:56 +0300]	DELETE /index.php/component/remove/ HTTP/1.1	200	368	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:21:59 +0300]	POST /index.php HTTP/1.1 HTTP/1.1	200	382	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:22:16 +0300]	GET /page/getdata/commodity HTTP/1.1	200	3053	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:22:18 +0300]	DELETE /index.php/component/remove/ HTTP/1.1	200	376	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:22:54 +0300]	GET /page/getdata/commodity HTTP/1.1	200	399	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:23:03 +0300]	GET /page/getdata/commodity HTTP/1.1	200	3056	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.8.17	[12/Feb/2021:16:24:37 +0300]	DELETE /index.php/component/remove/ HTTP/1.1	200	3056	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:24:39 +0300]	GET /page/getdata/commodity HTTP/1.1	200	377	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:24:48 +0300]	POST /index.php HTTP/1.1 HTTP/1.1	500	2021	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.8.17	[12/Feb/2021:16:24:50 +0300]	GET /page/getdata/commodity HTTP/1.1	200	3057	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:24:58 +0300]	GET /page/getdata/commodity HTTP/1.1	200	377	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:24:59 +0300]	DELETE /index.php/component/remove/ HTTP/1.1	200	362	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:25:03 +0300]	GET /page/getdata/commodity HTTP/1.1	500	2055	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:25:15 +0300]	DELETE /index.php/component/remove/ HTTP/1.1	200	371	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:25:16 +0300]	GET /page/getdata/commodity HTTP/1.1	500	2015	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.8.17	[12/Feb/2021:16:25:23 +0300]	POST /index.php/component/search/ HTTP/1.1	200	403	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.8.17	[12/Feb/2021:16:25:49 +0300]	POST /index.php/component/search/ HTTP/1.1	200	374	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:25:59 +0300]	POST /index.php/component/search/ HTTP/1.1	200	3086	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:26:04 +0300]	POST /index.php/component/search/ HTTP/1.1	200	413	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.8.17	[12/Feb/2021:16:26:15 +0300]	GET /page/getdata/commodity HTTP/1.1	200	751	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:26:16 +0300]	POST /index.php/component/search/ HTTP/1.1	200	3056	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.8.17	[12/Feb/2021:16:26:34 +0300]	DELETE /index.php/component/remove/ HTTP/1.1	200	3084	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:26:42 +0300]	DELETE /index.php/component/remove/ HTTP/1.1	200	376	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:26:45 +0300]	POST /index.php/component/search/ HTTP/1.1	200	367	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:26:52 +0300]	POST /index.php/component/search/ HTTP/1.1	200	365	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:27:04 +0300]	POST /index.php HTTP/1.1 HTTP/1.1	200	381	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:27:10 +0300]	POST /index.php/component/search/ HTTP/1.1	200	3055	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:27:34 +0300]	POST /index.php HTTP/1.1 HTTP/1.1	200	373	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:27:34 +0300]	PUT /index.php/component/update/ HTTP/1.1	500	2011	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:27:41 +0300]	POST /index.php/component/search/ HTTP/1.1	200	3055	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:27:42 +0300]	DELETE /index.php/component/remove/ HTTP/1.1	200	371	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:27:56 +0300]	DELETE /index.php/component/remove/ HTTP/1.1	200	3056	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:27:57 +0300]	POST /index.php/component/search/ HTTP/1.1	200	3054	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:28:01 +0300]	POST /index.php HTTP/1.1	200	237	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:28:06 +0300]	DELETE /index.php/component/remove/ HTTP/1.1	200	369	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:28:11 +0300]	DELETE /index.php/component/remove/ HTTP/1.1	200	372	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:28:14 +0300]	DELETE /index.php/component/remove/ HTTP/1.1	200	377	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:28:41 +0300]	DELETE /index.php/component/remove/ HTTP/1.1	200	3086	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.8.17	[12/Feb/2021:16:28:47 +0300]	POST /index.php/component/search/ HTTP/1.1	500	2023	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.8.17	[12/Feb/2021:16:28:48 +0300]	POST /index.php/component/search/ HTTP/1.1	500	2055	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.8.17	[12/Feb/2021:16:28:52 +0300]	POST /index.php/component/search/ HTTP/1.1	200	3052	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.8.17	[12/Feb/2021:16:28:53 +0300]	PUT /index.php/component/update/ HTTP/1.1	200	374	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:28:58 +0300]	POST /index.php HTTP/1.1 HTTP/1.1	200	376	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:29:05 +0300]	POST /index.php/component/search/ HTTP/1.1	500	2011	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:29:12 +0300]	POST /index.php/component/search/ HTTP/1.1	200	368	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.8.17	[12/Feb/2021:16:29:13 +0300]	DELETE /index.php/component/remove/ HTTP/1.1	200	3056	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:29:33 +0300]	POST /index.php HTTP/1.1 HTTP/1.1	200	412	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:30:03 +0300]	POST /index.php HTTP/1.1 HTTP/1.1	200	68451	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:30:06 +0300]	POST /index.php/component/search/ HTTP/1.1	200	379	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:30:08 +0300]	PUT /index.php/component/update/ HTTP/1.1	200	355	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.8.17	[12/Feb/2021:16:30:08 +0300]	PUT /index.php/component/update/ HTTP/1.1	200	427	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:30:52 +0300]	PUT /index.php/component/update/ HTTP/1.1	200	373	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:31:01 +0300]	POST /index.php/component/search/ HTTP/1.1	200	380	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.8.17	[12/Feb/2021:16:31:13 +0300]	DELETE /index.php/component/remove/ HTTP/1.1	200	3086	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:31:48 +0300]	POST /index.php/component/search/ HTTP/1.1	200	378	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:32:00 +0300]	DELETE /index.php/component/remove/ HTTP/1.1	200	3058	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:32:02 +0300]	PUT /index.php/component/update/ HTTP/1.1	200	375	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:32:44 +0300]	POST /index.php/component/search/ HTTP/1.1	200	405	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:32:50 +0300]	GET /page/getdata/commodity HTTP/1.1	200	3054	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.8.17	[12/Feb/2021:16:32:53 +0300]	GET /page/getdata/commodity HTTP/1.1	200	354	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:32:55 +0300]	DELETE /index.php/component/remove/ HTTP/1.1	200	359	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:33:06 +0300]	POST /index.php HTTP/1.1 HTTP/1.1	200	371	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.8.17	[12/Feb/2021:16:33:14 +0300]	POST /index.php HTTP/1.1	200	1837	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:33:44 +0300]	POST /index.php/component/search/ HTTP/1.1	200	376	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:34:00 +0300]	GET /page/getdata/commodity HTTP/1.1	200	368	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.8.17	[12/Feb/2021:16:34:17 +0300]	POST /index.php HTTP/1.1 HTTP/1.1	200	409	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:34:28 +0300]	POST /index.php HTTP/1.1 HTTP/1.1	200	368	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:34:32 +0300]	POST /index.php HTTP/1.1 HTTP/1.1	200	380	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.8.17	[12/Feb/2021:16:34:35 +0300]	POST /index.php/component/search/ HTTP/1.1	200	3087	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:34:52 +0300]	GET /page/getdata/commodity HTTP/1.1	200	439	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:35:37 +0300]	GET /page/getdata/commodity HTTP/1.1	200	368	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:35:58 +0300]	POST /index.php/component/search/ HTTP/1.1	200	380	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.8.17	[12/Feb/2021:16:36:08 +0300]	POST /index.php/component/search/ HTTP/1.1	200	2623	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:36:25 +0300]	DELETE /index.php/component/remove/ HTTP/1.1	500	1522	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:36:26 +0300]	DELETE /index.php/component/remove/ HTTP/1.1	200	3056	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:36:34 +0300]	POST /index.php HTTP/1.1	200	339	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.8.17	[12/Feb/2021:16:37:00 +0300]	POST /index.php/component/search/ HTTP/1.1	200	373	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:37:18 +0300]	POST /index.php/component/search/ HTTP/1.1	200	365	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.8.17	[12/Feb/2021:16:37:19 +0300]	POST /index.php/component/search/ HTTP/1.1	200	394	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:37:41 +0300]	POST /index.php/component/search/ HTTP/1.1	200	393	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.8.17	[12/Feb/2021:16:37:44 +0300]	POST /index.php HTTP/1.1 HTTP/1.1	200	371	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:38:11 +0300]	POST /index.php HTTP/1.1 HTTP/1.1	200	399	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:38:29 +0300]	GET /page/getdata/commodity HTTP/1.1	200	3351	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:38:29 +0300]	DELETE /index.php/component/remove/ HTTP/1.1	200	408	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:38:51 +0300]	POST /index.php HTTP/1.1 HTTP/1.1	200	469	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:38:56 +0300]	DELETE /index.php/component/remove/ HTTP/1.1	200	380	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.8.17	[12/Feb/2021:16:38:58 +0300]	GET /page/getdata/commodity HTTP/1.1	200	371	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:39:12 +0300]	POST /index.php HTTP/1.1	404	3997	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:40:05 +0300]	POST /index.php/component/search/ HTTP/1.1	200	396	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.4.25	[12/Feb/2021:16:40:18 +0300]	POST /index.php HTTP/1.1 HTTP/1.1	200	429	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21
+192.168.12.38	[12/Feb/2021:16:40:20 +0300]	GET /page/getdata/commodity HTTP/1.1	200	372	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21

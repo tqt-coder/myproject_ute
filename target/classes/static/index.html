@@ -1,0 +1,96 @@
+<!doctype html>
+<html>
+<head>
+    <title>Request URL Stats</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+</head>
+<body>
+<header class="fixed">
+    <nav class="navbar navbar-expand-lg topbar shadow mb-1 static-top d-flex bg-light"
+         style="font-family: 'Times New Roman', Times, serif; padding: 5px;">
+        <a href="/" class="mr-auto logo" style="padding-left: 20px;">
+            <h2 style="margin-bottom: -10px;">
+                <u><img src="/cloud.png" alt="cloud" width="40" height="50" style="padding-bottom: 8px;"/>
+                    CloudDuggu
+                </u>
+            </h2>
+        </a>
+    </nav>
+</header>
+
+<br/>
+<div id="container" class="container-fluid" style="width: 100%;">
+    <table class="table-sm table-bordered table-striped">
+        <thead class="table-info">
+        <tr>
+            <th>Log File</th>
+            <th>Min Date</th>
+            <th>Max Date</th>
+            <th>Application URL</th>
+            <th>Total Hits Count</th>
+            <th>Average Response Time</th>
+        </tr>
+        </thead>
+        <tbody id="tabledata"></tbody>
+    </table>
+    <br/>
+</div>
+<br/>
+
+
+
+<script>
+		var rownum = 0;
+
+		function loadFile(){ with (new XMLHttpRequest()) {
+			onreadystatechange=cb; open('GET','/data',true); responseType='text';send();
+		}}
+
+		var loadFile = setInterval(loadFile, 5000);
+
+		function cb(){
+			if(this.readyState===4)tbl(this.responseText); 
+		}
+		
+		function tbl(csv){
+
+		    if(csv !== null && csv !== '') {
+		        rownum++;
+                console.log("-->> RowNum: "+rownum+" | Data: "+csv);
+                var row = csv.split('\n');
+
+                var tr = document.createElement('tr');
+                var td = document.createElement('td');
+
+                td.appendChild(document.createTextNode("LOG-"+rownum));
+                td.setAttribute("rowspan",row.length);
+                tr.appendChild(td);
+
+                for (i = 0; i < row.length; i++) {
+                    var col = row[i].split('\t');
+                    for (j = 0; j < col.length; j++) {
+                        td = document.createElement('td');
+                        td.appendChild(document.createTextNode(col[j]));
+                        tr.appendChild(td);
+                    }
+                    document.getElementById('tabledata').appendChild(tr);
+                    tr = document.createElement('tr');
+                }
+
+                tr = document.createElement('tr');
+                td = document.createElement('td');
+                td.setAttribute("colspan",6);
+                td.setAttribute("class","bg-success");
+                tr.appendChild(td);
+                document.getElementById('tabledata').appendChild(tr);
+                document.getElementById('tabledata').appendChild(document.createElement('tr'));
+            }
+		}
+
+
+</script>
+
+
+</body>
+
+</html>
